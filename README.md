@@ -1,6 +1,7 @@
 # 🌪️ Global Disaster Response Analysis (2018-2024) 🌊
 
-![Made with Power BI](https://img.shields.io/badge/Made_with-Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+[<img src="https://img.shields.io/badge/Made_with-Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Made with Power BI">](https://powerbi.microsoft.com/)
+[<img src="https://img.shields.io/badge/View_on-GitHub-181717?style=flat&logo=github&logoColor=white" alt="View on GitHub">](httpshttps://github.com/Aar2284/Disaster_Analysis_Dashboard)
 
 ![Main Dashboard](./Images/main_dashboard.png)
 
