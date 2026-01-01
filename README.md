@@ -3,7 +3,9 @@
 [<img src="https://img.shields.io/badge/Made_with-Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Made with Power BI">](https://powerbi.microsoft.com/)
 [<img src="https://img.shields.io/badge/View_on-GitHub-181717?style=flat&logo=github&logoColor=white" alt="View on GitHub">](httpshttps://github.com/Aar2284/Disaster_Analysis_Dashboard)
 
-![Main Dashboard](./Images/main_dashboard.png)
+<p align="center">
+  <img src="assets/dashboard%20screenshots/front_page.png" alt="Front Page" width="750"/>
+</p>
 
 ## 📖 Project Overview
 
@@ -31,11 +33,12 @@ The goal is to equip humanitarian organizations, governments, and researchers wi
 
 The report includes a main dashboard and several detailed pages for deeper analysis. *Note: The headings below are placeholders; please update them with accurate descriptions for each page.*
 
-| Geographical Insights                                | Temporal Analysis                             |
+| **Geographical Disaster Insigths**                   | **Aqatic Disaster Insigths**                  |
 | :--------------------------------------------------- | :-------------------------------------------- |
-| ![Page 1](./Images/page_1.png)                       | ![Page 2](./Images/page_2.png)                |
-| **Impact Assessment**                                | **Response Metrics**                          |
-| ![Page 3](./Images/page_3.png)                       | ![Page 4](./Images/page_4.png)                |
+|  <img src="assets/assets/dashboard%20screenshots/land_intel_page.png" width="400"/>                        | <img src="assets/assets/dashboard%20screenshots/water_intel_page.png" width="400"/>               |
+| **Ariel Disaster Insigths**                          | **Igneous Disaster Insigths**                 |
+| :--------------------------------------------------- | :-------------------------------------------- |
+| <img src="assets/assets/dashboard%20screenshots/wind_intel_page.png" width="400"/>                       | <img src="assets/assets/dashboard%20screenshots/fire_intel_page.png" width="400"/>                |
 
 ## 💾 Data Source
 
