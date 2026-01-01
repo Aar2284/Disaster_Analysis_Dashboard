@@ -35,10 +35,9 @@ The report includes a main dashboard and several detailed pages for deeper analy
 
 | **Geographical Disaster Insigths**                   | **Aqatic Disaster Insigths**                  |
 | :--------------------------------------------------- | :-------------------------------------------- |
-|  <img src="assets/assets/dashboard%20screenshots/land_intel_page.png" width="400"/>                        | <img src="assets/assets/dashboard%20screenshots/water_intel_page.png" width="400"/>               |
+|  <img src="assets/assets/dashboard%20screenshots/land_intel_page.png" width="500"/>                        | <img src="assets/assets/dashboard%20screenshots/water_intel_page.png" width="500"/>               |
 | **Ariel Disaster Insigths**                          | **Igneous Disaster Insigths**                 |
-| :--------------------------------------------------- | :-------------------------------------------- |
-| <img src="assets/assets/dashboard%20screenshots/wind_intel_page.png" width="400"/>                       | <img src="assets/assets/dashboard%20screenshots/fire_intel_page.png" width="400"/>                |
+| <img src="assets/assets/dashboard%20screenshots/wind_intel_page.png" width="500"/>                       | <img src="assets/assets/dashboard%20screenshots/fire_intel_page.png" width="500"/>                |
 
 ## 💾 Data Source
 
