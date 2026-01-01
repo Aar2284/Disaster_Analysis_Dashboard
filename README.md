@@ -31,13 +31,13 @@ The goal is to equip humanitarian organizations, governments, and researchers wi
 
 ## 🖼️ Dashboard Pages
 
-The report includes a main dashboard and several detailed pages for deeper analysis. *Note: The headings below are placeholders; please update them with accurate descriptions for each page.*
+The report includes a main dashboard and several detailed pages for deeper analysis. 
 
 | **Geographical Disaster Insigths**                   | **Aqatic Disaster Insigths**                  |
 | :--------------------------------------------------- | :-------------------------------------------- |
-|  <img src="assets/assets/dashboard%20screenshots/land_intel_page.png" width="500"/>                        | <img src="assets/assets/dashboard%20screenshots/water_intel_page.png" width="500"/>               |
+|  <img src="assets/dashboard%20screenshots/land_intel_page.png" width="500"/>                        | <img src="assets/dashboard%20screenshots/water_intel_page.png" width="500"/>               |
 | **Ariel Disaster Insigths**                          | **Igneous Disaster Insigths**                 |
-| <img src="assets/assets/dashboard%20screenshots/wind_intel_page.png" width="500"/>                       | <img src="assets/assets/dashboard%20screenshots/fire_intel_page.png" width="500"/>                |
+| <img src="assets/dashboard%20screenshots/wind_intel_page.png" width="500"/>                       | <img src="assets/dashboard%20screenshots/fire_intel_page.png" width="500"/>                |
 
 ## 💾 Data Source
 
