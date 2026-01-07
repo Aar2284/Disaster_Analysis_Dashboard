@@ -31,13 +31,13 @@ The goal is to equip humanitarian organizations, governments, and researchers wi
 
 ## 🖼️ Dashboard Pages
 
-The report includes a main dashboard and several detailed pages for deeper analysis. *Note: The headings below are placeholders; please update them with accurate descriptions for each page.*
+The report includes a main dashboard and several detailed pages for deeper analysis. 
 
 | **Geographical Disaster Insigths**                   | **Aqatic Disaster Insigths**                  |
 | :--------------------------------------------------- | :-------------------------------------------- |
-|  <img src="assets/assets/dashboard%20screenshots/land_intel_page.png" width="500"/>                        | <img src="assets/assets/dashboard%20screenshots/water_intel_page.png" width="500"/>               |
+|  <img src="assets/dashboard%20screenshots/land_intel_page.png" width="500"/>                        | <img src="assets/dashboard%20screenshots/water_intel_page.png" width="500"/>               |
 | **Ariel Disaster Insigths**                          | **Igneous Disaster Insigths**                 |
-| <img src="assets/assets/dashboard%20screenshots/wind_intel_page.png" width="500"/>                       | <img src="assets/assets/dashboard%20screenshots/fire_intel_page.png" width="500"/>                |
+| <img src="assets/dashboard%20screenshots/wind_intel_page.png" width="500"/>                       | <img src="assets/dashboard%20screenshots/fire_intel_page.png" width="500"/>                |
 
 ## 💾 Data Source
 
@@ -68,5 +68,7 @@ The analysis is based on the **`global_disaster_response_2018_2024.csv`** datase
 2.  **Open the File:** Download and open the **`Disaster_response_analysis.pbix`** file in Power BI Desktop.
 3.  **Interact:** The report is fully interactive. Use the navigation buttons and filters to explore the different pages.
 
----
-*This README was generated to provide a comprehensive guide to the project.*
+## 🔗 Connect
+
+GitHub :- https://github.com/Aar2284
+LinkedIn :- https://www.linkedin.com/in/aaryan-kalia/
